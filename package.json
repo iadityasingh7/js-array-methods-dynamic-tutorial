@@ -1,0 +1,21 @@
+{
+  "name": "array_insertion_deletion_mehtod",
+  "version": "1.0.0",
+  "description": "Dynamic representation of array push, pop, shift and unshift methods functionality.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git init"
+  },
+  "keywords": [
+    "Array",
+    "Methods",
+    "Simple",
+    "Tutorial"
+  ],
+  "author": "isinghaditya7",
+  "license": "MIT"
+}
